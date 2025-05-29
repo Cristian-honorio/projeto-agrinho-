@@ -8,15 +8,15 @@
 /* Estilo para o corpo da página */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f8f8f8;
+    background-color: #fffefe;
     color: #333;
     line-height: 1.6;
 }
 
 /* Estilos para o cabeçalho */
 header {
-    background-color: #ff9900; /* Cor mais vibrante para dar sensação de festa */
-    color: white;
+    background-color: #28396e; /* Cor mais vibrante para dar sensação de festa */
+    color: rgb(243, 227, 227);
     text-align: center;
     padding: 50px 20px;
 }
@@ -24,7 +24,7 @@ header {
 header h1 {
     font-size: 80px;
     font-weight: bold;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    text-shadow: 2px 2px 4px rgba(221, 208, 208, 0.2);
 }
 
 header p {
@@ -47,7 +47,7 @@ header p {
 h2 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #ff6600; /* Cor que remete à energia da festa */
+    color: #1f1916; /* Cor que remete à energia da festa */
     text-transform: uppercase;
     letter-spacing: 1px;
 }
@@ -98,7 +98,7 @@ ul li strong {
 }
 
 .video-links a {
-    background-color: #ff6600; /* Cor vibrante para os botões */
+    background-color: #0011ff; /* Cor vibrante para os botões */
     color: white;
     padding: 12px 25px;
     font-size: 18px;
