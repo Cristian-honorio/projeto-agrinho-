@@ -98,8 +98,8 @@ ul li strong {
 }
 
 .video-links a {
-    background-color: #0011ff; /* Cor vibrante para os botões */
-    color: white;
+    background-color: #3b5bc5; /* Cor vibrante para os botões */
+    color: rgb(255, 255, 255);
     padding: 12px 25px;
     font-size: 18px;
     text-decoration: none;
@@ -110,13 +110,13 @@ ul li strong {
 }
 
 .video-links a:hover {
-    background-color: #e65c00; /* Efeito de hover mais intenso */
+    background-color: #3365d1; /* Efeito de hover mais intenso */
 }
 
 /* Estilo para o rodapé */
 footer {
     background-color: #333;
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
     position: fixed;
